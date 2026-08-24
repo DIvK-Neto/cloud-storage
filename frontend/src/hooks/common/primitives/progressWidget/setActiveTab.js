@@ -1,0 +1,1 @@
+export const setActiveTab = (setActiveTab, tab) => setActiveTab(tab);

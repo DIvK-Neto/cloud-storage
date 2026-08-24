@@ -1,0 +1,1 @@
+export const closeWidget = (setIsExpanded) => setIsExpanded(false);

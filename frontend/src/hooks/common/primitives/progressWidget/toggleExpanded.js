@@ -1,0 +1,1 @@
+export const toggleExpanded = (setIsExpanded) => setIsExpanded(prev => !prev);

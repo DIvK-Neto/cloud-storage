@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.env
+db.sqlite3
+*.log
+
+# Django
+media/
+staticfiles/
+
+# Node.js / React
+node_modules/
+dist/
+build/
+*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary and logs
+logs/
+temp/
+structure.txt
